@@ -13,6 +13,7 @@
 		BCB845C81AE00DDC001C1402 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BCB845C71AE00DDC001C1402 /* Images.xcassets */; };
 		BCB845CB1AE00DDC001C1402 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = BCB845C91AE00DDC001C1402 /* LaunchScreen.xib */; };
 		BCB845D71AE00DDC001C1402 /* Read_and_Write_Plist_FilesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCB845D61AE00DDC001C1402 /* Read_and_Write_Plist_FilesTests.swift */; };
+		BCB845E31AE00F28001C1402 /* GameData.plist in Resources */ = {isa = PBXBuildFile; fileRef = BCB845E21AE00F28001C1402 /* GameData.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		BCB845D01AE00DDC001C1402 /* Read and Write Plist FilesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Read and Write Plist FilesTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BCB845D51AE00DDC001C1402 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BCB845D61AE00DDC001C1402 /* Read_and_Write_Plist_FilesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Read_and_Write_Plist_FilesTests.swift; sourceTree = "<group>"; };
+		BCB845E21AE00F28001C1402 /* GameData.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = GameData.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				BCB845C01AE00DDC001C1402 /* AppDelegate.swift */,
 				BCB845C21AE00DDC001C1402 /* ViewController.swift */,
 				BCB845C41AE00DDC001C1402 /* Main.storyboard */,
+				BCB845E21AE00F28001C1402 /* GameData.plist */,
 				BCB845C71AE00DDC001C1402 /* Images.xcassets */,
 				BCB845C91AE00DDC001C1402 /* LaunchScreen.xib */,
 				BCB845BE1AE00DDC001C1402 /* Supporting Files */,
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BCB845E31AE00F28001C1402 /* GameData.plist in Resources */,
 				BCB845C61AE00DDC001C1402 /* Main.storyboard in Resources */,
 				BCB845CB1AE00DDC001C1402 /* LaunchScreen.xib in Resources */,
 				BCB845C81AE00DDC001C1402 /* Images.xcassets in Resources */,
